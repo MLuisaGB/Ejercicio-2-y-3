@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #ffb627;
+    height: 80px;
+}
+
+header a{
+    color: white;
+}
+
+/*
+*LOGO
+*/
+
+#logo-header{
+    text-decoration: none;
+    float: left;
+    padding: 20px 0 0 20px;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+/*
+*NAVEGACION
+*/
+
+nav{
+    float: right;
+    padding: 25px 0 0 20px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    padding-right: 30px;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    display: block;
+    padding: 0px 10px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: goldenrod;
+}
+
+/*
+*¿QUE PREFERIS?
+*/
+
+
+body{
+    background-image: url(./fije-del-ejemplo-exhausto-de-la-mano-con-los-utensilios-cocina-dibujo-real-vector-herramientas-coocking-plato-bifurcación-cuchara-149588934.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: top;
+    width: 100%;
+    height: 50%;
+}
+
+#inicio{
+    margin: 127px 425px 127px 425px;
+}
+
+
+h1{
+    background-color: white;
+    display: block;
+    color: #ffb627;
+    font-size: 45px;
+    font-weight: 900;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#boton{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.bt1{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.bt2{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+
+/*
+*ARTICULO
+*/
+article{
+    
+    width: 100%;
+    height: 400px;
+    background-color: #ffb727d3;
+}
+img{
+    float: left;
+    padding-top: 75px;
+    padding-left: 150px;
+    width: 270px;
+    height: 270px;
+}
+h2{
+    text-align: right;
+    color: white;
+    font-size: 35px;
+    font-weight: 1000;
+    padding-top: 70px;
+    padding-right: 270;
+}
+
+#parr{
+    float: right;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    width: 40%;
+    height: 50%;
+    display: block;
+    padding: 0 115px;
+}
+
+.bt3{
+    padding: 10px;
+    background-color: white;
+    color: #ffb627;
+    border: white;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    float: right;
+    margin-right: 330px;
+}
+
+/*
+*NEWLETTER
+*/
+
+#newsletter{
+    margin: 50px 425px 50px 425px;
+    display: block;
+    color: #ffb627;
+    height: 300px;
+    font-size: 45px;
+    font-weight: 900;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+input{
+    display: block;
+    font-size: 25px;
+    font-weight: 200;
+    border-radius: 10px; 
+    padding: 10px;
+    background-color: ;  
+}

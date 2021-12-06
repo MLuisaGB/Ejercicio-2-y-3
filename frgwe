@@ -1,0 +1,54 @@
+
+.bt1{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.bt2{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+#boton{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+    
+}
+
+.bt1{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.bt2{
+    padding: 10px;
+    background-color: #ffb627;
+    color: white;
+    border: #ffb627;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+margin: 120px 115px 0 0;
